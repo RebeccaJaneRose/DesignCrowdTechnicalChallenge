@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechincalChallengeTests\\DesignCrowdTechincalChallengeTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechincalChallengeTests\\DesignCrowdTechincalChallengeTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechincalChallengeTests\\DesignCrowdTechincalChallengeTests.csproj",
+        "projectName": "DesignCrowdTechincalChallengeTests",
+        "projectPath": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechincalChallengeTests\\DesignCrowdTechincalChallengeTests.csproj",
+        "packagesPath": "C:\\Users\\Rebecca Rose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechincalChallengeTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rebecca Rose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/7ZmO56PW4tIuCJykurMgtoaRwqKNrqiK61Jl2iYcbdYCK7cLBU/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge.csproj": {
+                "projectPath": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge.csproj",
+        "projectName": "DesignCrowdTechnicalChallenge",
+        "projectPath": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge.csproj",
+        "packagesPath": "C:\\Users\\Rebecca Rose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rebecca Rose\\Desktop\\Test\\DesignCrowdTechnicalChallenge\\DesignCrowdTechnicalChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rebecca Rose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/7ZmO56PW4tIuCJykurMgtoaRwqKNrqiK61Jl2iYcbdYCK7cLBU/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DevExpress.Xpo": {
+              "target": "Package",
+              "version": "[18.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

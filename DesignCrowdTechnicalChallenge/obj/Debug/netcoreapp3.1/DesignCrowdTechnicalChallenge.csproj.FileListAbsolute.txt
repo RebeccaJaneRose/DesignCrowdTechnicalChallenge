@@ -1,0 +1,11 @@
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.exe
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.deps.json
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.runtimeconfig.json
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.runtimeconfig.dev.json
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.dll
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\bin\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.pdb
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\obj\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.csprojAssemblyReference.cache
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\obj\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.AssemblyInfoInputs.cache
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\obj\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.AssemblyInfo.cs
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\obj\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.dll
+C:\Users\Rebecca Rose\Desktop\Test\DesignCrowdTechnicalChallenge\DesignCrowdTechnicalChallenge\obj\Debug\netcoreapp3.1\DesignCrowdTechnicalChallenge.pdb
